@@ -2,6 +2,7 @@
 A time based desktop wallpaper changer for i3wm
 # Requirements
 G++
+
 feh
 # How to use
 Deskchange uses two files placed in the pictures folder, `day.jpg` and `night.jpg`(options to change location as well as extention coming later)
